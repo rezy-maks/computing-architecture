@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/vladislav/CLionProjects/ABC_lab3/main.cpp
+cmath
+-
+cstring
+-
+fstream
+-
+iostream
+-
+string
+-
+sys/time.h
+-
+

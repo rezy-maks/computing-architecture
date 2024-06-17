@@ -1,0 +1,7 @@
+TimeBuf:	0	0	0	0	0	0	0	0	0	0	
+AvTime=	0sec.
+W=	520.385
+relErr=	4.218sec.
+absErr=	0%
+Disp=	1.72804e-13
+Deviation=	0

@@ -1,0 +1,13 @@
+Model,Task,OpType,Opt,InsCount,Timer,Time,LNum,AvTime,AbsErr,RelError,TaskPerf
+Intel(R) Pentium(R) CPU 4405U @ 2.10GHz;dgemm;int;-O0;1e+08;wtime; 0;10; 0sec.;0%; 77.355sec.;119.021
+Intel(R) Pentium(R) CPU 4405U @ 2.10GHz;dgemm;float;-O0;1e+08;wtime; 0;10; 0sec.;0%; 113.906sec.;72.0052
+Intel(R) Pentium(R) CPU 4405U @ 2.10GHz;dgemm;double;-O0;1e+08;wtime; 0;10; 0sec.;0%; 24.389sec.;128.188
+Intel(R) Pentium(R) CPU 4405U @ 2.10GHz;dgemm;int;-O1;1e+08;wtime; 0;10; 0sec.;0%; 3.194sec.;515.271
+Intel(R) Pentium(R) CPU 4405U @ 2.10GHz;dgemm;float;-O1;1e+08;wtime; 0;10; 0sec.;0%; 33.793sec.;578.525
+Intel(R) Pentium(R) CPU 4405U @ 2.10GHz;dgemm;double;-O1;1e+08;wtime; 0;10; 0sec.;0%; 23.223sec.;397.564
+Intel(R) Pentium(R) CPU 4405U @ 2.10GHz;dgemm;int;-O2;1e+08;wtime; 0;10; 0sec.;0%; 21.739sec.;607.87
+Intel(R) Pentium(R) CPU 4405U @ 2.10GHz;dgemm;float;-O2;1e+08;wtime; 0;10; 0sec.;0%; 56.15sec.;448.589
+Intel(R) Pentium(R) CPU 4405U @ 2.10GHz;dgemm;double;-O2;1e+08;wtime; 0;10; 0sec.;0%; 32.948sec.;606.113
+Intel(R) Pentium(R) CPU 4405U @ 2.10GHz;dgemm;int;-O3;1e+08;wtime; 0;10; 0sec.;0%; 18.026sec.;900.065
+Intel(R) Pentium(R) CPU 4405U @ 2.10GHz;dgemm;float;-O3;1e+08;wtime; 0;10; 0sec.;0%; 47.903sec.;462.947
+Intel(R) Pentium(R) CPU 4405U @ 2.10GHz;dgemm;double;-O3;1e+08;wtime; 0;10; 0sec.;0%; 4.218sec.;520.385
